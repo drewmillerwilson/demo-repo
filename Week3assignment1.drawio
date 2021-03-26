@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T03:16:08.683Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="2RbRiqTkMnUKd2jVYtDj" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-26T03:40:59.571Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="Z76usjnWO5n-faEGvXTB" version="14.4.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2201" dy="2023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -366,35 +366,11 @@
         <mxCell id="ZMqYGbDEm_XaeI_KLQOW-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="ZMqYGbDEm_XaeI_KLQOW-146" target="ZMqYGbDEm_XaeI_KLQOW-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZMqYGbDEm_XaeI_KLQOW-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="ZMqYGbDEm_XaeI_KLQOW-146" target="ZMqYGbDEm_XaeI_KLQOW-155">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZMqYGbDEm_XaeI_KLQOW-146" value="Recurring Event" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="482" y="980" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZMqYGbDEm_XaeI_KLQOW-150" value="Daily Event" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="393" y="1130" width="70" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZMqYGbDEm_XaeI_KLQOW-151" value="Weekly Event" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="481" y="1130" width="70" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZMqYGbDEm_XaeI_KLQOW-152" value="Monthly Event" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="571" y="1130" width="70" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="ZMqYGbDEm_XaeI_KLQOW-153" value="ntimes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="593" y="920" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ZMqYGbDEm_XaeI_KLQOW-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="ZMqYGbDEm_XaeI_KLQOW-155" target="ZMqYGbDEm_XaeI_KLQOW-151">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZMqYGbDEm_XaeI_KLQOW-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="ZMqYGbDEm_XaeI_KLQOW-155" target="ZMqYGbDEm_XaeI_KLQOW-150">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZMqYGbDEm_XaeI_KLQOW-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="ZMqYGbDEm_XaeI_KLQOW-155" target="ZMqYGbDEm_XaeI_KLQOW-152">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZMqYGbDEm_XaeI_KLQOW-155" value="d" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="502" y="1060" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZMqYGbDEm_XaeI_KLQOW-164" value="Spanning Event" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="975" width="70" height="50" as="geometry" />
@@ -427,6 +403,15 @@
         </mxCell>
         <mxCell id="ZMqYGbDEm_XaeI_KLQOW-173" value="endDate" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="593" y="1050" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMqYGbDEm_XaeI_KLQOW-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="ZMqYGbDEm_XaeI_KLQOW-181" target="ZMqYGbDEm_XaeI_KLQOW-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMqYGbDEm_XaeI_KLQOW-181" value="recurrence type" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="478.5" y="1070" width="77" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMqYGbDEm_XaeI_KLQOW-183" value="Type will be daily, weekly &lt;br&gt;or monthly" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="450" y="1120" width="143" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
